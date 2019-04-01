@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CityDescription</string>
+    <string name="button_show_city">City description</string>
+
+    <string-array name="cities">
+        <item>Warsaw</item>
+        <item>Minsk</item>
+        <item>Moscow</item>
+    </string-array>
+
+    <string-array name="cities_description">
+        <item>
+            Warsaw is the official capital of Poland, the largest city in this country,
+            which for many centuries has occupied a dominant position in its political and
+            cultural arena. Once one of the most beautiful cities in Eastern Europe, Warsaw was
+            catastrophically severely destroyed during the occupation by Hitlers troops.
+            Despite the fact that many monuments and structures of medieval Warsaw were restored,
+            most of the city was rebuilt in a modern style. Mirrored skyscrapers, busy streets and
+            neighborhoods contrast sharply with the quiet streets and low houses of the Old Town.
+        </item>
+        <item>
+            Minsk is the capital of Belarus, the largest and most interesting city in the country.
+            The city is the center of the Minsk region and the Minsk region, but is not included in
+            their composition, since it is an independent administrative-territorial unit. The city
+            has 1 million 921 thousand people (2014). You must spend at least 2 days to at least
+            briefly familiarize yourself with its sights.
+        </item>
+        <item>
+            Moscow is a city of federal significance, a subject of the Russian Federation.
+            The largest in the country and one of the most important in the world political,
+            industrial, scientific and cultural center. Located in the European part of the Russian
+            Federation, between the Oka and Volga rivers, on the Moscow River. The border of the
+            city mainly passes through the Moscow ring road.
+        </item>
+    </string-array>
+</resources>
